@@ -1,0 +1,5 @@
+# rahasia / creds
+pixverse_accounts.txt
+*.txt.bak
+.env
+__pycache__/
