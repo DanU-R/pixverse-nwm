@@ -1,5 +1,21 @@
-# rahasia / creds
+node_modules/
+dist/
+out/
+build/
+*.log
+.DS_Store
+.env
+.env.local
+.vite/
+captures/
+.kiro
+.claude
+.editorconfig
+tests/
+release/
+package-lock.json
+
+# secrets / accounts
 pixverse_accounts.txt
 *.txt.bak
 .env
-__pycache__/
